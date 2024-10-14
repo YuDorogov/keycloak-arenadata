@@ -7,7 +7,7 @@
 
     <groupId>io.arenadata.keycloak</groupId>
     <artifactId>keycloak-arenadata</artifactId>
-    <version>${env.VERSION}</version>
+    <version>0.2.0</version>
     <packaging>jar</packaging>
 
     <properties>
